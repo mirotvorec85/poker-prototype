@@ -1,3 +1,23 @@
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+[Oo]bj/
+[Bb]uild
+sysinfo.txt
+*.stackdump
 # Logs
 logs
 *.log
